@@ -1,7 +1,7 @@
 # 🌙 LunOS - Modern Web Masaüstü Deneyimi
 
 <p align="center">
-  <img src="LunOsLogo.png" alt="LunOS Logo" width="300">
+  <img src="LunOsLogo.png" alt="LunOS Logo" width="200">
 </p>
 
 <p align="center">
