@@ -1,7 +1,7 @@
 # 🌙 LunOS - Modern Web Masaüstü Deneyimi
 
 <p align="center">
-  <img src="LunOsLogo.png" alt="LunOS Logo" width="200">
+  <img src="LunOsLogo.png" alt="LunOS Logo" width="300">
 </p>
 
 <p align="center">
@@ -34,42 +34,16 @@
 
 ---
 
-## 📸 Ekran Görüntüleri
+## 🛠️ Teknolojiler
 
-<p align="center">
-  <img src="LunOsLogo.png" alt="LunOS Masaüstü" width="800" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  <br>
-  <em>Görsel 1: LunOS Masaüstü ve Şık Arayüz</em>
-</p>
-
-<p align="center">
-  <img src="LunOsLogo.png" alt="LunOS Kontrol Merkezi" width="800" style="border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
-  <br>
-  <em>Görsel 2: Özelleştirilebilir Kontrol Merkezi ve Widgetlar</em>
-</p>
-
-> [!TIP]
-> Gerçek ekran görüntülerinizi buraya ekleyerek projenizi daha profesyonel gösterebilirsiniz!
+LunOS, modern web teknolojileri ile inşa edilmiştir:
+- **HTML5:** Yapısal düzen.
+- **CSS3:** Glassmorphism ve gelişmiş animasyonlar.
+- **JavaScript (Vanilla):** Sistem mantığı ve uygulama yönetimi.
+- **FontAwesome:** Modern ve şık ikon kütüphanesi.
+- **Google Fonts:** Inter ve Roboto yazı tipleri.
 
 ---
-
-## 🛠️ Kurulum ve Çalıştırma
-
-Projeyi yerel makinenizde çalıştırmak oldukça basittir:
-
-1. Depoyu bilgisayarınıza indirin:
-   ```bash
-   git clone https://github.com/kullanici/LunOs.git
-   ```
-2. Proje dizinine gidin:
-   ```bash
-   cd LunOs
-   ```
-3. `index.html` dosyasını tarayıcınızda açın veya Python sunucusunu başlatın:
-   ```bash
-   python start_lunos.py
-   ```
-
 ---
 
 ## ❓ Sıkça Sorulan Sorular (SSS)
