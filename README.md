@@ -72,7 +72,7 @@ LunOS, modern web teknolojileri ile inşa edilmiştir:
 
 ## 👨‍💻 Geliştirici
 
-**Mehmet** - [GitHub Profili]([https://github.com/mehmet](https://github.com/MehmetSelvitopu))
+**Mehmet** - [GitHub Profili](https://github.com/MehmetSelvitopu)
 
 ---
 
